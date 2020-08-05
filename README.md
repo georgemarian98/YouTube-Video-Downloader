@@ -21,3 +21,5 @@ Copy the URL of the video you want to download and paste it in the URL text fiel
 * Audio Only
 
 Finally you can select the folder where you want the video to be downloaded. By default, if no folder is selected, it will make a new folder named "Output" in the same directory as the executable.
+
+If you provide the URL via system arguments you can download the video 1080p quality.
