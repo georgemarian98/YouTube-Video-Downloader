@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 Output/
+*.ico
 
 # C extensions
 *.so
