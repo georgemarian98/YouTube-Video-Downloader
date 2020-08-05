@@ -105,9 +105,15 @@ def window():
     sys.exit(app.exec_())
 
 
-window()
 
+def main():
+    if len(sys.argv) > 1:
+        Download_video(sys.argv[1], 0,"Output\\")
+    else:
+        window()
 
+if __name__ == "__main__":
+    main()
 
 
 
