@@ -4,6 +4,7 @@ import easygui
 
 from YouTube import Download_video
 
+#pip install PyQt5
 from PyQt5 import QtWidgets, QtGui
 from PyQt5.QtWidgets import QApplication, QMainWindow, QLineEdit, QRadioButton, QTextEdit, QMessageBox
 
